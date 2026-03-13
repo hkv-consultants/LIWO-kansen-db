@@ -1,0 +1,14 @@
+[project]
+name = "liwo-kansen-db"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fiona>=1.10.1",
+    "geopandas>=1.1.3",
+    "ipykernel>=7.2.0",
+    "numpy>=2.4.3",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.1",
+]
